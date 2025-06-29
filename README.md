@@ -1,4 +1,5 @@
-# Oleg Kelmyashkin
+# Oleg Kelmyashkin 
+[LinkedIn](https://www.linkedin.com/in/oleg-kelmyashkin)
 
 ## About
 
