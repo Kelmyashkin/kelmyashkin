@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oleg Kelmyashkin
 
-<!--
-**Kelmyashkin/kelmyashkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Frontend developer with **10+ years** of commercial experience, collaborating in teams ranging from **2** to **20** members,
+both remotely and on-site. I have **1+** year of experience in team leadership. I've built entire development workflows:
+from collecting requirements to setting up automated releases with high test coverage, comprehensive analytics, and
+CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've created custom UI libraries to make development faster and more consistent. I've improved load times and
+performance by optimizing code and using smart caching. I helped build reliable and scalable front-end architecture with
+modern tools and best practices.
+
+## Skills
+
+- JavaScript Typescript Vue.js React.js Angular Node.js Next.js
+- Vuex Pinia Redux Redux Toolkit SCSS Tailwind MaterialUI Bootstrap Vuetify Storybook Figma
+- Vite Webpack VS Code GitHub Copilot Jest Vitest React Testing Library Playwright Chromatic
